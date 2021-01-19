@@ -133,7 +133,7 @@ function draw() {
   }
   if (gameState==="end"){
     textSize(50);
-    text("GameOver");
+    text("GameOver",200,400);
    }
 }
 function mousePressed(){
